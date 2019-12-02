@@ -1,0 +1,12 @@
+# Ignore binary files
+authgen
+server
+
+# Ignore object files
+*.o
+*.a
+
+# Ignore other files
+*.dmo
+*.log
+
